@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            position: relative; /* Necessário para o vídeo de fundo */
+            overflow: hidden; /* Impede que o vídeo ultrapasse as bordas */
+        }
+
+        /* Estilo do vídeo de fundo */
+        .background-video {
+            position: absolute; /* Fixa o vídeo */
+            top: 0;
+            left: 0;
+            width: 100%; /* Faz com que o vídeo ocupe toda a tela */
+            height: 100%;
+            object-fit: cover; /* Garante que a imagem cubra toda a área */
+            z-index: -1; /* Coloca o vídeo atrás do conteúdo */
+        }
+
+        h1, p {
+            color: white;
+            text-align: center;
+            text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff;
+            animation: neon 2s infinite alternate;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 1.5rem;
+            margin: 10px auto;
+            max-width: 1000px;
+        }
+
+        @keyframes neon {
+            to {
+                text-shadow: 0 0 5px #00ffff, 0 0 15px #00ffff, 0 0 40px #00ffff;
+            }
+        }
+
+        main {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+
+        .a {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .a a {
+            margin: 0 10px;
+        }
+
+        a {
+            display: inline-block;
+            margin: 5px;
+            padding: 8px 16px;
+            background-color: rgb(226, 66, 66);
+            color: black;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 2rem;
+        }
+
+        a:hover {
+            background-color: #c0bcbc;
+        }
+
+        img {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            margin: 0px;
+            max-width: 2500px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <video autoplay loop muted playsinline class="background-video">
+        <source src="video.mp4" type="video/mp4">
+        <source src="video.mp4" type="video/webm">
+    </video>
+
+    <header></header>
+    <main>
+        <h1>Eleve seu negócio digital a outro nível <strong>com um Front-end de qualidade!</strong></h1>
+        <p>Olá! Sou Carol Romualdo, desenvolvedora Back-end em aprendizado.</p>
+        <p>Estou me desenvolvendo cada dia mais para me tornar uma profissional de excelência.</p>
+        <p>Vamos conversar?</p>
+        <div class="a">
+            <a href="https://www.instagram.com/carol.gadu/">Instagram</a>
+            <a href="https://github.com/acpfromualdo">GitHub</a>
+        </div>
+        <img src="img.png" alt="Foto do bastão">
+    </main>
+    <footer></footer>
+</body>
+</html>

@@ -31,4 +31,4 @@ Site Aprendendo/
 - [GitHub](https://github.com/acpfromualdo)
 
 ## 📧 Contato
-Para mais informações ou sugestões, entre em contato através do meu [Instagram](https://www.instagram.com/carol.gadu/) ou [GitHub](https://github.com/acpfromualdo).
+Para mais informações ou sugestões, entre em contato através do meu [Instagram](https://www.instagram.com/carol.gadu/), [GitHub](https://github.com/acpfromualdo) ou [Linkedin](https://www.linkedin.com/in/ana-carolina-pucca-faria-romualdo-2846b31a5/)

@@ -19,20 +19,6 @@ meu-portfolio/
 └── README.md
 ```
 
-## 💡 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/acpfromualdo/meu-portfolio.git
-   ```
-
-2. Acesse o diretório do projeto:
-   ```bash
-   cd meu-portfolio
-   ```
-
-3. Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como o Live Server no VS Code.
-
 ## 🌐 Demonstração
 Veja o portfólio em ação acessando o link:
 [Portfólio Online](#)

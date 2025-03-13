@@ -1,4 +1,4 @@
-# 💼 Portfólio Pessoal - Ana Carolina Pucca Faria Romualdo
+# 💼 Esse site é uma apresentação do meu ínicio na programação
 
 Este é um portfólio pessoal desenvolvido para apresentar minhas habilidades como desenvolvedora Back-end em aprendizado. O projeto utiliza um fundo com vídeo e efeitos de neon para destacar as informações, proporcionando uma experiência visual moderna e atraente.
 
@@ -11,52 +11,24 @@ Este é um portfólio pessoal desenvolvido para apresentar minhas habilidades co
 
 ## 📂 Estrutura de Arquivos
 ```
-meu-portfolio/
+Site Aprendendo/
 ├── index.html
 ├── style.css
 ├── video.mp4
 ├── img.png
 └── README.md
 ```
-
-## 💡 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/acpfromualdo/meu-portfolio.git
-   ```
-
-2. Acesse o diretório do projeto:
-   ```bash
-   cd meu-portfolio
-   ```
-
-3. Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como o Live Server no VS Code.
-
-## 🌐 Demonstração
-Veja o portfólio em ação acessando o link:
-[Portfólio Online](#)
-
-## 🎨 Personalização
-
-### Alterar Vídeo de Fundo
-- Substitua o arquivo `video.mp4` na pasta raiz.
-- Certifique-se de que o novo vídeo tenha o mesmo nome ou atualize o caminho no arquivo HTML.
-
-### Modificar Cores e Animações
-- Acesse o arquivo `style.css` e edite as classes CSS para ajustar cores, tamanhos e efeitos.
-
-### Atualizar Conteúdo
-- Abra o arquivo `index.html` e personalize os textos e links conforme desejar.
-
 ## 🛠️ Melhorias Futuras
 - Adição de animações mais dinâmicas com JavaScript.
 - Implementação de um formulário de contato funcional.
 - Versão multilíngue (Português e Inglês).
 
+## Acesse o site
+- [Site de Apresentação](http://127.0.0.1:5500/index.html)
+  
 ## 🌐 Links Importantes
-- [Instagram](#)
+- [Instagram](https://www.instagram.com/carol.gadu/)
 - [GitHub](https://github.com/acpfromualdo)
 
 ## 📧 Contato
-Para mais informações ou sugestões, entre em contato através do meu [Instagram](#) ou [GitHub](https://github.com/acpfromualdo).
+Para mais informações ou sugestões, entre em contato através do meu [Instagram](https://www.instagram.com/carol.gadu/), [GitHub](https://github.com/acpfromualdo) ou [Linkedin](https://www.linkedin.com/in/ana-carolina-pucca-faria-romualdo-2846b31a5/)

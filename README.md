@@ -27,8 +27,8 @@ Site Aprendendo/
 - [Site de Apresentação](http://127.0.0.1:5500/index.html)
   
 ## 🌐 Links Importantes
-- [Instagram](#)
+- [Instagram](https://www.instagram.com/carol.gadu/)
 - [GitHub](https://github.com/acpfromualdo)
 
 ## 📧 Contato
-Para mais informações ou sugestões, entre em contato através do meu [Instagram](#) ou [GitHub](https://github.com/acpfromualdo).
+Para mais informações ou sugestões, entre em contato através do meu [Instagram](https://www.instagram.com/carol.gadu/) ou [GitHub](https://github.com/acpfromualdo).

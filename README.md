@@ -24,7 +24,7 @@ Site Aprendendo/
 - Versão multilíngue (Português e Inglês).
 
 ## Acesse o site
-- [http://127.0.0.1:5500/index.html]
+- [Site de Apresentação](http://127.0.0.1:5500/index.html)
   
 ## 🌐 Links Importantes
 - [Instagram](#)
